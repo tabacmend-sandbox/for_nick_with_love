@@ -1,6 +1,6 @@
 {
   "settingsInheritedFrom": "tabacmend-sandbox/whitesource-config@main",
   "scanSettings":{
-    "baseBranches": ["main","test-for-nick"
+    "baseBranches": ["main","test-for-nick"]
   }
 }
